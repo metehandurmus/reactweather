@@ -1,2 +1,3 @@
-# reactweather
-Weather application with reactjs and weather api
+# React Weather
+Demo:
+![image](https://i.hizliresim.com/9lufe6q.gif)
